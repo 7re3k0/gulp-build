@@ -7,3 +7,8 @@
 3. GulpJS - $ npm install -g gulp
 4. npm install - in work folder
 5. gulp - Run.
+
+### To do 
+
+- [ ] Do an install video
+- [ ] Think of something else to add here
